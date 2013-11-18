@@ -1,4 +1,4 @@
 projectv2_47982
 ===============
 
-csc5
+this is my repository for my final project for my intro to programming CSC 5
